@@ -1,0 +1,39 @@
+Shiva Tummod
+Junior AI & ML Engineer
+tummodshivai@gmail.com 
++91-7218392453 
+Pune, Maharashtra, India 
+linkedin.com/in/shivatummod 
+github.com/ShivaTummod 
+Career Objective
+Motivated Electronics and Telecommunication Engineer and aspiring Generative Al Engineer with hands-on 
+experience in LLMs (GPT), LangChain, HuggingFace, and prompt engineering. Passionate about solving real-
+world problems using AI/ML and NLP technologies.
+Work Experience
+ML Intern, BrainyBeam
+•Hands-on internship to explore Data Science and Machine Learning concepts 
+through guided projects and practical learning modules05/2025 – 06/2025Pune
+AI/ML Intern, Edunet Foundation (Code Unnati/SAP)
+•Learn practical AI/ML concepts, tools, and project development by working on 
+real-world applications.12/2024 – 04/2025Pune
+Education
+B.E. in E&TC Honours(AI/ML), Trinity Academy Of Enginering, Pune 2022 – 2026
+HSC, Yeshwant Mahavidyalaya, Nanded 2020 – 2022
+SSC, Mahatma Phule High School, Nanded 2018 – 2020
+Skills
+Generative Al & NLP
+GPT, LLM, RAG, Prompt Engineering, python
+Frameworks & Tools
+LangChain, HuggingFace Transformers, OpenAI API, 
+Django, Git, Jupyter, VS Code
+Key Achievements
+NTSE Stage-1 Maharashtra Qualifier 01/12/2021
+3rd Rank - District Level Yoga CompetitionBest Drill Award - NCC Air Wing 01/12/2018
+Projects
+Encore Committee Dashboard
+•Department dashboard to manage events and academic updates using Django10/2024 – 05/2025
+Movie Recommendation System
+•Built a content-based ML model to suggest personalized movie recommendations07/2024 – 12/2024
+Smart Text Summarizer
+Automatically generate concise summaries of long articles or documents using 
+Hugging Face's pre-trained BART models.

@@ -1,0 +1,33 @@
+What You'll Do & Learn (Responsibilities):
+
+Design data solutions to meet business, technical and user requirements. This includes uilding REST APIs that meet the functional/non-functional business requirements and meets the standards.
+Designing of DB schema for Vector Database and writing efficient and scalable queries.
+Meet the highest quality standards in code. And evangelise code quality among the team.
+Create quick POCs to demonstrate and showcase the technology capabilities in solving the business need.
+Building robust build and deployment pipelines using Azure DevOPs tools. Working with DevOps engineers to make sure continuous integration and continuous deployment.
+Understanding the cyber security threats and provide solutions to mitigate the security risks.
+Trouble shooting and debugging skills to quickly identify the root causes and address the issues with both tactical and permanent solution.
+Work with Data scientists and Data Engineers in understanding the end to end design of the enterprise systems. Contribute in technical discussion in providing best software solution. 
+Make the application scale to the demand. Help devops engineers in configuring and deploying in a secured and highly scalable cloud environment.
+Improve the Coding standards and DevOps maturity by constantly adopting the best standards.
+Maintain unit testing, integrated testing and automated test environments for quicker delivery.
+Deliver on time with high quality.
+Maintain technical documentation of the solution, which presents the design to various stakeholders.
+
+
+What We're Looking For (Experience and Qualifications):
+
+Bachelor’s degree in computer science, AI or related fields.
+Upto 1 year of experience in AI/ML space.
+Good knowledge of python.
+Some exposure to python libraries like Tensorflow, pyTorch, OpenCV, Pillow,scikit-image.
+Familiarity with concepts of Deep Learning, Gen AI and Computer Vision.
+Good knowledge of SQL.
+
+
+Required Skills and Competencies:
+
+Strong problem-solving ability and eagerness to learn.
+Flexibility and adaptability, ability to work in ambiguous situations, and also evolve as a great team-player.
+Ability to adapt and work in a dynamic environment.
+Good communication skills and ability to work collaboratively within a team.

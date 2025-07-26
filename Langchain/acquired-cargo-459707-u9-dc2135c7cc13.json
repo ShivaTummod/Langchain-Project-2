@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "acquired-cargo-459707-u9",
+  "private_key_id": "dc2135c7cc13fcf78e8f0be4863215d4ec4bda95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwAnGxaLZDXr13\nV4Cr4hOe755t90++oyTCkAAKkBVq25W03k6uxCFIT7ijC0k/8JIQ3bdZD4d1mzRF\nUpSIvp+XIVr0pQKPr40MTvnlDeGOS0jLMblLsNK6OHfXIB78hjTwZvOZ38lQrQF9\nMGyZ+GEblE7Vf5SrypuDjU6E4QUkVsWe7f6yaq0kN+H5zsrSX4MfjsWSRO7d/Naq\nCAbDkGzGsiH7uISxM16Y9L6I4gLd9Ja0bBO7rMwXB4RJmimJMpRGe2mgEdP64ca2\nxAqrz5edTnq4tVyo40N/Fi5r2nEPBYSen6qP2Na7Sy0eBATfAiDP0H1uPJOPdtOo\nCivw5autAgMBAAECggEABEbi7V0uhJ+SOgqpyUNyl5uZ/XETgn3jYEjwf1E1/AU+\n84itX8jLSD8LrQaSrpeRbRB+Ko9aisyNLhwOGO6M4TbBx40U7VnmMwTeRKccMoF4\n0Nsx9fljfXvuyY7xwdAfDDJsO/J4qVmy3hBlqy4iafGmIsD5Y11GfyFZZZg0MEhT\nLtspA1AxLilRRjsbXwezKdLWgcJy/RoJmHc7yBbUptgCHRkXgD95ou8FY80jlGCV\nCDMwig0BKE7SYxUWLITLqMFpQ/ZafMfbg2ePGX+ZiVkB4ev2NJu8v7TFKO2eJqd1\nSjuufUotJXnzc6yK8+LxUyc2ewdKwb8axWZRg/1bfwKBgQDXD4W3K6EkTyOaAEEX\nkK+DGG79GCqm/aQAfYkXRElNld1C2BRYkIhq4hW3im7SQpGd7U1EM8W+3SmH/2h+\nqSRvZa4N42rsRKMFxnBcAHS8a9Wtju2+qxj7jfO0FyQ09REX+Yhkea9TD1cR7h5/\ndnRIJKHW8m6CmtKKYIxffMv/lwKBgQDRg9u4s4YuB7eJZMuS7FDiH7gf1LHARcc+\nGbcUQgM+wDKtnCxlI/eR1IFBiWqwZ0bGLOwN8emXGjO3V4pxTvrnyJjzBr1/w18Z\nJn08hm4PhufDxUDinzImmDwju7XR9dka84sPmIGyquSa4rxZDUNNmfm9rHgtkEYA\nYHlkPFbXWwKBgQC6ti0/I8/ZOCQOld3tWZ4nUNU7Qvn01QzHqDWXT5/cjhn06Khx\nY7osIXD9UmB4h3bpB5cneVNbK6PdAK92F98cH8kHIcQ4sDZg0zHFjlfLJkvzTL23\n5c/gxhMo7VZv67wVdn0lzkea8xyC4przyqGV6MfhV8T9+vCDVuNIG474rQKBgQCg\nATVSDzhP+vC96s5VfEghCNxS4tqE3kVVNcpNnERiLeIGGBkHfLpbEpFL/agO5DB2\ntGPqGm+sSARq5l4CPrD7RoUYRHOAGTKNQImwKXHwRbTGG+R7rdxdATIckARBPqH5\nJTl0RaH3Uu+XIcV5tNlLcGX75rU5Bs+PBh5u4G3ptQKBgDIvOEZiytMUxEVCjsSD\nn7aequsxGvxmzLFBr/MWcG/ykJRdYpQI3ROiFGIX+9tzDHMhql5/ZORxTKwiBtgg\nBnIjCK733WU1ulqUodVpPSxtVIJSHsTZ64NFmJl5SQw0ku4L5MK/BsGDwfwSzlhl\nVEytLefgReH+MtQ8rAZ12wCe\n-----END PRIVATE KEY-----\n",
+  "client_email": "prayas-ai@acquired-cargo-459707-u9.iam.gserviceaccount.com",
+  "client_id": "103676397294065692159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prayas-ai%40acquired-cargo-459707-u9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
